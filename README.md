@@ -1,0 +1,1 @@
+This is a simple ATM (Automated Teller Machine) project implemented in TypeScript. The project provides basic functionalities commonly found in ATMs, including withdrawal, fast cash, deposit, and balance inquiry.
