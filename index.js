@@ -8,7 +8,7 @@ let lessthen = 500;
 let ansPin = await inquirer.prompt([
     {
         name: "pin",
-        message: "Enter your 4 digists pin",
+        message: "Enter your 4 digists pin here",
         type: "number",
     }
 ]);
